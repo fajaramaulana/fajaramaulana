@@ -16,10 +16,8 @@
 
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+📊 **Development breakdown**
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 -------
 
