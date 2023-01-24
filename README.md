@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fajar</h1>
 <h3 align="center">A passionate Backend developer from Tangerang, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaramaulana&label=Profile%20views&color=0e75b6&style=flat" alt="fajaramaulana" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaramaulana&label=Profile%20views&color=0e75b6&style=flat" alt="fajaramaulana" /> </p> -->
 
 - 🔭 I’m currently working on **MNC Portal Indonesia**
 
