@@ -17,13 +17,91 @@
 -------
 
 📊 **Development breakdown**
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
--------
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2053%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 49 Contributions in the Year 2023
+ > 
+> 📦 523.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 30 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+🌆 Daytime    191 commits    ███████████░░░░░░░░░░░░░░   44.01% 
+🌃 Evening    184 commits    ██████████░░░░░░░░░░░░░░░   42.4% 
+🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Tuesday      87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05% 
+Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
+Saturday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+Sunday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      7 hrs 42 mins       ████████████████░░░░░░░░░   65.67% 
+Blade Template           1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+🔥 Editors: 
+VS Code                  11 hrs 44 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+sso.mncportal            4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.83% 
+laravel-master           4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   35.69% 
+repository               2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93% 
+sneat-bootstrap-html-admi19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+toyota-showroom          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12%
+
+💻 Operating System: 
+Windows                  11 hrs 44 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   31.75% 
+PHP                      13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+Go                       13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Blade                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/fajaramaulana/fajaramaulana/main/charts/bar_graph.png) 
+
+
+ Last Updated on 27/01/2023 18:43:36 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
