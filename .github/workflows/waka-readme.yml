@@ -16,4 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ->
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: false
