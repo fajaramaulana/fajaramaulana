@@ -17,3 +17,4 @@ jobs:
           SHOW_TITLE: true
           BLOCKS: ->
           SHOW_PROJECTS: false
+          SHOW_LOC_CHART: false
