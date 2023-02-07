@@ -18,15 +18,15 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-185-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 53 Contributions in the Year 2023
  > 
-> 📦 523.8 kB Used in GitHub's Storage 
+> 📦 523.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,17 @@ Sunday       47 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 42 mins       ██████████████░░░░░░░░░░░   59.43% 
-PHP                      5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.23% 
-YAML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Go                       11 hrs 30 mins      █████████████████░░░░░░░░   68.84% 
+PHP                      4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49% 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
+Blade Template           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
+Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  16 hrs 43 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 39 mins      █████████████████████████   100.0%
+Windows                  16 hrs 43 mins      █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ Blade                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 18:41:43 UTC
+ Last Updated on 07/02/2023 18:42:08 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
