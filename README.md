@@ -18,9 +18,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,17 +63,17 @@ Sunday          47 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 4 mins       ████████████████░░░░░░░░░   65.92 % 
-Go                       4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   26.39 % 
-YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Blade Template           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+PHP                      13 hrs 42 mins      ████████████████░░░░░░░░░   64.75 % 
+Blade Template           3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Go                       2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 10 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -90,7 +90,7 @@ Blade                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2023 18:42:57 UTC
+ Last Updated on 11/02/2023 18:40:29 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
