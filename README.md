@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,17 +61,17 @@ Sunday                   203 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 hrs 45 mins       ██████████████████░░░░░░░   71.26 % 
-Blade Template           2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PHP                      9 hrs 11 mins       ████████████████████░░░░░   79.59 % 
+Blade Template           2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 18:38:24 UTC
+ Last Updated on 26/05/2023 18:38:16 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
