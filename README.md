@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C273%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,17 +61,17 @@ Sunday                   205 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 55 mins       ██████████████████░░░░░░░   70.96 % 
-Go                       1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Blade Template           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+PHP                      4 hrs 37 mins       ███████████████████░░░░░░   74.26 % 
+Go                       1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Blade Template           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2023 18:39:15 UTC
+ Last Updated on 01/09/2023 18:38:24 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
