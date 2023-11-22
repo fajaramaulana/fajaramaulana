@@ -18,9 +18,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C451%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,17 +61,17 @@ Sunday                   206 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 34 mins      ████████████████████████░   97.37 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Nginx configuration file 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+PHP                      9 hrs 19 mins       ████████████████████████░   96.65 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Nginx configuration file 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2023 18:40:37 UTC
+ Last Updated on 22/11/2023 18:38:22 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
