@@ -18,9 +18,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C542%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,17 +61,17 @@ Sunday                   224 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               14 hrs 37 mins      ██████████████████░░░░░░░   73.28 % 
-PHP                      2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Go                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JavaScript               18 hrs 2 mins       ██████████████████░░░░░░░   71.96 % 
+PHP                      2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Go                       2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2023 18:38:49 UTC
+ Last Updated on 21/12/2023 18:38:21 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
