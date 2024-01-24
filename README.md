@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C627%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,17 +61,17 @@ Sunday                   228 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               11 hrs 51 mins      ██████████████░░░░░░░░░░░   54.25 % 
-PHP                      5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Blade Template           3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JavaScript               10 hrs 18 mins      █████████████░░░░░░░░░░░░   52.08 % 
+PHP                      5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Blade Template           3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 18:40:29 UTC
+ Last Updated on 24/01/2024 18:39:43 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
