@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C652%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -61,17 +61,17 @@ Sunday                   228 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CSS                      8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-JavaScript               4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-PHP                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Blade Template           1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+CSS                      9 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+JavaScript               4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+PHP                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Blade Template           1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2024 18:38:22 UTC
+ Last Updated on 04/02/2024 18:38:32 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
