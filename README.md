@@ -18,13 +18,15 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 740.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 192 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,17 +61,15 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      27 hrs 57 mins      ████████████████████████░   96.82 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+PHP                      26 hrs 38 mins      █████████████████████████   98.42 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2024 18:35:36 UTC
+ Last Updated on 24/04/2024 18:35:27 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
