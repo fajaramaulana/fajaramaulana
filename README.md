@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaramaulana&label=Profile%20views&color=0e75b6&style=flat" alt="fajaramaulana" /> </p> -->
 
-- 🔭 I’m currently working on **MNC Portal Indonesia**
+- 🔭 I’m currently working on **Bali Towerindo Sentra**
 
 - 🌱 I’m currently learning **Golang**
 
