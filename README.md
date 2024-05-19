@@ -18,13 +18,15 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 740.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 194 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,18 +61,18 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      16 hrs 20 mins      █████████████████████░░░░   85.35 % 
-Go                       1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+PHP                      16 hrs 23 mins      █████████████████████░░░░   85.38 % 
+Go                       1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 4 mins       ██████████████████████░░░   89.18 % 
-Linux                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Windows                  17 hrs 7 mins       ██████████████████████░░░   89.20 % 
+Linux                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +88,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 18:35:29 UTC
+ Last Updated on 19/05/2024 18:35:35 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
