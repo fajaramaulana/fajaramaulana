@@ -26,8 +26,6 @@
 
 > 📦 740.7 kB Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -61,14 +59,14 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      28 hrs 35 mins      ████████████████████████░   96.65 % 
+PHP                      28 hrs 32 mins      ████████████████████████░   96.65 % 
 Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +82,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 18:35:37 UTC
+ Last Updated on 26/05/2024 18:35:40 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
