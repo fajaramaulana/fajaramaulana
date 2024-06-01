@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,15 +61,15 @@ Sunday                   230 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      26 hrs 37 mins      █████████████████████████   99.27 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+PHP                      22 hrs 54 mins      █████████████████████████   99.44 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ Blade                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 18:36:17 UTC
+ Last Updated on 01/06/2024 18:36:02 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
