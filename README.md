@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C180%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,17 +61,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 1 min         ██████████████████░░░░░░░   70.24 % 
-PHP                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Protocol Buffer          1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Makefile                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Go                       5 hrs 40 mins       ████████████░░░░░░░░░░░░░   49.84 % 
+PHP                      3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Protocol Buffer          1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Makefile                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 18:38:57 UTC
+ Last Updated on 10/08/2024 18:37:13 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
