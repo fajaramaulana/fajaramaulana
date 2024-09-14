@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C271%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C275%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 749.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 555 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,17 +61,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      14 hrs 32 mins      █████████████████░░░░░░░░   67.86 % 
-Go                       5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+PHP                      16 hrs 24 mins      █████████████████░░░░░░░░   69.99 % 
+Go                       6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2024 18:39:51 UTC
+ Last Updated on 14/09/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
