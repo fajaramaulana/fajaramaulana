@@ -18,15 +18,13 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C508%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 750.7 kB Used in GitHub's Storage 
- > 
-> 🏆 786 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,17 +59,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      11 hrs 7 mins       █████████████░░░░░░░░░░░░   50.35 % 
-TypeScript               10 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.65 % 
+TypeScript               13 hrs 22 mins      ███████████████░░░░░░░░░░   59.77 % 
+PHP                      8 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
 Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Go                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Go                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -87,7 +85,7 @@ Makefile                 3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2024 18:43:02 UTC
+ Last Updated on 07/12/2024 18:41:03 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
