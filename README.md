@@ -18,13 +18,15 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C522%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 751.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 788 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,15 +61,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 27 mins       ██████████████░░░░░░░░░░░   56.99 % 
-PHP                      1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.52 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+PHP                      59 mins             ██████████░░░░░░░░░░░░░░░   38.67 % 
+TypeScript               46 mins             ████████░░░░░░░░░░░░░░░░░   30.25 % 
+JavaScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -83,7 +87,7 @@ Makefile                 3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2024 18:41:24 UTC
+ Last Updated on 21/12/2024 18:40:03 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
