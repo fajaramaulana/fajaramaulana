@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C551%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C552%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,9 +26,11 @@
 
 > 📦 751.0 kB Used in GitHub's Storage 
  > 
+> 🏆 3 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 44 Private Repositories 
  > 
@@ -59,17 +61,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 17 mins       █████████████░░░░░░░░░░░░   51.39 % 
-HTML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+PHP                      2 hrs 54 mins       ██████████████████░░░░░░░   72.10 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -85,7 +87,7 @@ Makefile                 3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 18:40:46 UTC
+ Last Updated on 15/01/2025 18:40:28 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
