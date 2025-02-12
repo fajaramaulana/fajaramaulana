@@ -18,7 +18,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C669%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,11 +26,13 @@
 
 > 📦 751.1 kB Used in GitHub's Storage 
  > 
+> 🏆 5 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -59,17 +61,17 @@ Sunday                   332 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
-YAML                     5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Other                    3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+PHP                      11 hrs 6 mins       █████████████░░░░░░░░░░░░   52.31 % 
+Other                    4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+YAML                     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 51 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -85,7 +87,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2025 18:40:49 UTC
+ Last Updated on 12/02/2025 18:41:31 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
