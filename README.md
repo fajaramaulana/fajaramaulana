@@ -18,9 +18,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C825%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,17 +61,17 @@ Sunday                   418 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      17 hrs 10 mins      ████████████████░░░░░░░░░   64.32 % 
-Blade Template           4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-JavaScript               3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+PHP                      12 hrs 45 mins      █████████████░░░░░░░░░░░░   51.26 % 
+JavaScript               5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Blade Template           4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -87,7 +87,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2025 18:41:34 UTC
+ Last Updated on 18/03/2025 18:42:58 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
