@@ -26,8 +26,6 @@
 
 > 📦 752.2 kB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -61,17 +59,13 @@ Sunday                   459 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 54 mins       ██████████████████████░░░   87.60 % 
-PHP                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -87,7 +81,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2025 18:42:36 UTC
+ Last Updated on 04/04/2025 18:41:56 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
