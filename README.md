@@ -18,15 +18,13 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C063%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C065%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 763.7 kB Used in GitHub's Storage 
- > 
-> 🏆 79 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,18 +59,18 @@ Sunday                   630 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      16 hrs 11 mins      ██████████████░░░░░░░░░░░   57.58 % 
-Blade Template           10 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.26 % 
-TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+PHP                      16 hrs 24 mins      ███████████████░░░░░░░░░░   60.98 % 
+Blade Template           9 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
+TypeScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  26 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 36 mins      ████████████████████████░   94.64 % 
-Windows                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Linux                    25 hrs 23 mins      ████████████████████████░   94.41 % 
+Windows                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 
 **I Mostly Code in Go** 
@@ -88,7 +86,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2025 18:45:55 UTC
+ Last Updated on 12/06/2025 18:44:01 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
