@@ -3,10 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaramaulana&label=Profile%20views&color=0e75b6&style=flat" alt="fajaramaulana" /> </p> -->
 
-- 🔭 I’m currently working on **BPJS Ketenagakerjaan**
-
-- 🌱 I’m currently learning **Golang**
-
 - 📫 How to reach me **fajaramaulana.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
