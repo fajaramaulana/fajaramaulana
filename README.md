@@ -14,7 +14,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C721%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C726%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@
 
 > 📦 812.7 kB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +57,17 @@ Sunday                   949 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       14 hrs 2 mins       ███████████████████░░░░░░   74.78 % 
-TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Go                       15 hrs 45 mins      ███████████████████░░░░░░   76.20 % 
+TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Makefile                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -83,7 +83,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:47:37 UTC
+ Last Updated on 01/01/2026 18:47:14 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
