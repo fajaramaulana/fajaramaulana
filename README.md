@@ -14,7 +14,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C806%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C810%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,11 +57,11 @@ Sunday                   959 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 36 mins      ████████████░░░░░░░░░░░░░   49.78 % 
-PHP                      5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-SQL                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Blade Template           1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Go                       12 hrs 50 mins      ██████████████░░░░░░░░░░░   55.03 % 
+PHP                      5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Blade Template           1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+SQL                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
 VS Code                  23 hrs 19 mins      █████████████████████████   100.00 % 
@@ -83,7 +83,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 18:50:38 UTC
+ Last Updated on 28/01/2026 18:50:37 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
