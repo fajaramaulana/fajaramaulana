@@ -14,7 +14,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C816%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C819%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,17 +57,17 @@ Sunday                   959 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       10 hrs 51 mins      ██████████████░░░░░░░░░░░   55.20 % 
-PHP                      5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Blade Template           2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Go                       9 hrs 27 mins       █████████████░░░░░░░░░░░░   50.90 % 
+PHP                      5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Blade Template           2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -83,7 +83,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 18:51:07 UTC
+ Last Updated on 31/01/2026 18:49:14 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
