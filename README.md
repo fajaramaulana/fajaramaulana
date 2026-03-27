@@ -14,7 +14,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C925%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C926%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,14 +57,16 @@ Sunday                   959 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       1 hr 48 mins        █████████████████████████   99.39 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Go                       3 hrs               ████████████████████████░   94.49 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Cursor                   1 hr 49 mins        █████████████████████████   100.00 % 
+Cursor                   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -80,7 +82,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 18:54:37 UTC
+ Last Updated on 27/03/2026 18:52:31 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
