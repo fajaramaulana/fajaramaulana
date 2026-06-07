@@ -14,15 +14,13 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C062%20hrs%206%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 833.1 kB Used in GitHub's Storage 
+> 📦 833.2 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,46 +28,6 @@
  > 
 > 🔑 53 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1969 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌆 Daytime                4130 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
-🌃 Evening                3422 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
-🌙 Night                  542 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1653 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  1695 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                1714 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Thursday                 1764 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Friday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 844 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Sunday                   962 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Go                       5 hrs 8 mins        ███████████████░░░░░░░░░░   59.28 % 
-Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Makefile                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-SQL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    8 hrs 41 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -83,7 +41,7 @@ Batchfile                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 18:59:09 UTC
+ Last Updated on 07/06/2026 18:59:12 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
