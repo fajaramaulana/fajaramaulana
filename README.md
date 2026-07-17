@@ -14,7 +14,7 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C174%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C178%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,7 +22,7 @@
 
 > 📦 834.1 kB Used in GitHub's Storage 
  > 
-> 🏆 66 Contributions in the Year 2026
+> 🏆 71 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,6 +30,46 @@
  > 
 > 🔑 58 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2009 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌆 Daytime                4157 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
+🌃 Evening                3489 commits        █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌙 Night                  546 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1667 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  1721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                1722 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Thursday                 1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Friday                   1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Saturday                 872 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Sunday                   993 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       12 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.76 % 
+PHP                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Bash                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+
+🔥 Editors: 
+Cursor                   26 hrs 28 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    26 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -43,7 +83,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 19:46:03 UTC
+ Last Updated on 17/07/2026 19:44:21 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
