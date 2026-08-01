@@ -14,9 +14,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C155%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C161%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-202%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 > 📦 834.2 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2026
+> 🏆 99 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,7 +36,7 @@
 
 ```text
 🌞 Morning                2012 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌆 Daytime                4170 commits        ██████████░░░░░░░░░░░░░░░   40.74 % 
+🌆 Daytime                4171 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
 🌃 Evening                3507 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
 🌙 Night                  546 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
@@ -48,7 +48,7 @@ Tuesday                  1721 commits        ████░░░░░░░�
 Wednesday                1745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 Thursday                 1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 Friday                   1446 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Saturday                 874 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Saturday                 875 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 Sunday                   997 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 
@@ -59,41 +59,41 @@ Sunday                   997 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-Python                   6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Bash                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Python                   7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Go                       6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Bash                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Markdown                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+SQL                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 17 mins      ████████████████████████░   97.35 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Cursor                   22 hrs 16 mins      ████████████████████████░   97.70 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Linux                    19 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 39 mins (79.05%)
+⏱ AI Coding Time: 18 hrs 38 mins (81.79%)
 
-✍️ 3,919 lines written by AI, 150 lines written by hand (96.31% AI-written)
+✍️ 8,778 lines written by AI, 162 lines written by hand (98.19% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 208 AI Prompts
+🧠 59 AI Sessions, 263 AI Prompts
 
 Sonnet                   48 lines            █████████████░░░░░░░░░░░░   51.61 % 
 Cursor                   45 lines            ████████████░░░░░░░░░░░░░   48.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.31% of written lines came from AI
-📄 Detailed Prompter — average 901 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 8.46% of changed lines were hand-edited
+🤖 AI-Driven — 98.19% of written lines came from AI
+📄 Detailed Prompter — average 991 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -109,7 +109,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:07:01 UTC
+ Last Updated on 01/08/2026 19:47:55 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
