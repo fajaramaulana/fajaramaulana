@@ -14,6 +14,10 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C187%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -28,6 +32,73 @@
  > 
 > 🔑 58 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2012 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+🌆 Daytime                4171 commits        ██████████░░░░░░░░░░░░░░░   40.75 % 
+🌃 Evening                3507 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  546 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1668 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Tuesday                  1721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                1745 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Thursday                 1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Friday                   1446 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Saturday                 875 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Sunday                   997 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       7 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Python                   5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Markdown                 4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+PHP                      3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Text                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+
+🔥 Editors: 
+Cursor                   20 hrs 13 mins      ███████████████████░░░░░░   75.84 % 
+VS Code                  5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Agent                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+
+💻 Operating System: 
+Linux                    26 hrs 39 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 24 hrs 54 mins (93.45%)
+
+✍️ 13,920 lines written by AI, 154 lines written by hand (98.91% AI-written)
+
+🔤 149,912 Input Tokens, 40,888 Output Tokens
+
+💵 $1.06 Estimated AI Cost This Week
+
+🧠 80 AI Sessions, 432 AI Prompts
+
+Cursor                   3,321 lines         ██████████████████░░░░░░░   73.21 % 
+Github-Copilot           662 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Composer                 281 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Grok                     272 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.91% of written lines came from AI
+📄 Detailed Prompter — average 1,318 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.4% of changed lines were hand-edited
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -41,7 +112,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 18:53:05 UTC
+ Last Updated on 08/08/2026 18:50:23 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
