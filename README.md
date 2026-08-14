@@ -59,44 +59,43 @@ Sunday                   1017 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       19 hrs 55 mins      █████████████░░░░░░░░░░░░   53.11 % 
-Python                   5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Markdown                 3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-PHP                      2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Text                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Go                       18 hrs 26 mins      ███████████████░░░░░░░░░░   61.25 % 
+Python                   4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Markdown                 2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Bash                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Cursor                   25 hrs 1 min        █████████████████░░░░░░░░   66.68 % 
-Agent                    7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-VS Code                  5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Cursor                   22 hrs 35 mins      ███████████████████░░░░░░   75.00 % 
+Agent                    7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Linux                    37 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 10 mins (96.38%)
+⏱ AI Coding Time: 29 hrs (96.31%)
 
-✍️ 14,102 lines written by AI, 258 lines written by hand (98.2% AI-written)
+✍️ 10,900 lines written by AI, 249 lines written by hand (97.77% AI-written)
 
-🔤 671,144 Input Tokens, 644,845 Output Tokens
+🔤 644,388 Input Tokens, 644,388 Output Tokens
 
-💵 $11.69 Estimated AI Cost This Week
+💵 $11.60 Estimated AI Cost This Week
 
-🧠 119 AI Sessions, 741 AI Prompts
+🧠 105 AI Sessions, 612 AI Prompts
 
-Cursor                   3,321 lines         ███████████████████████░░   92.43 % 
-Grok                     272 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Grok                     272 lines           ██████████████░░░░░░░░░░░   55.97 % 
+Cursor                   214 lines           ███████████░░░░░░░░░░░░░░   44.03 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.2% of written lines came from AI
-📚 Verbose Prompter — average 4,125 characters per prompt
+🤖 AI-Driven — 97.77% of written lines came from AI
+📚 Verbose Prompter — average 4,700 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.06% of changed lines were hand-edited
+🚀 High AI Trust — 2.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -112,7 +111,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 18:55:10 UTC
+ Last Updated on 14/08/2026 18:52:58 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
