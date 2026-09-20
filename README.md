@@ -14,9 +14,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C299%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C301%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,42 +59,42 @@ Sunday                   1037 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-Markdown                 3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Python                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-PHP                      2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Go                       7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+PHP                      3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Python                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 42 mins      ███████████████████░░░░░░   74.58 % 
-Agent                    5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Cursor                   16 hrs 21 mins      ███████████████████░░░░░░   74.92 % 
+Agent                    5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Linux                    21 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 30 mins (97.37%)
+⏱ AI Coding Time: 21 hrs 18 mins (97.56%)
 
-✍️ 8,981 lines written by AI, 37 lines written by hand (99.59% AI-written)
+✍️ 10,027 lines written by AI, 34 lines written by hand (99.66% AI-written)
 
-🔤 634,393 Input Tokens, 634,393 Output Tokens
+🔤 574,213 Input Tokens, 574,213 Output Tokens
 
-💵 $11.42 Estimated AI Cost This Week
+💵 $10.34 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 399 AI Prompts
+🧠 75 AI Sessions, 399 AI Prompts
 
-Grok                     3,824 lines         █████████████████████████   100.00 % 
+Grok                     3,873 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 6,554 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🤖 AI-Driven — 99.66% of written lines came from AI
+📚 Verbose Prompter — average 5,974 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -110,7 +110,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 18:42:01 UTC
+ Last Updated on 20/09/2026 18:43:00 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
