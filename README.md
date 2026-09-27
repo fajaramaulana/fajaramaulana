@@ -59,42 +59,42 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
-Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-PHP                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Bash                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Go                       5 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.24 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+SQL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 1 min        █████████████████░░░░░░░░   68.87 % 
-Agent                    4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+Cursor                   8 hrs 29 mins       █████████████████░░░░░░░░   67.55 % 
+Agent                    4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.45 % 
 
 💻 Operating System: 
-Linux                    14 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (94.14%)
+⏱ AI Coding Time: 11 hrs 42 mins (93.22%)
 
-✍️ 6,521 lines written by AI, 9 lines written by hand (99.86% AI-written)
+✍️ 4,212 lines written by AI, 9 lines written by hand (99.79% AI-written)
 
-🔤 269,772 Input Tokens, 269,772 Output Tokens
+🔤 268,496 Input Tokens, 268,496 Output Tokens
 
-💵 $4.86 Estimated AI Cost This Week
+💵 $4.83 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 267 AI Prompts
+🧠 67 AI Sessions, 235 AI Prompts
 
-Grok                     4,237 lines         ████████████████████████░   95.09 % 
-Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Grok                     3,914 lines         ████████████████████████░   94.70 % 
+Opus                     219 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 4,621 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📚 Verbose Prompter — average 5,139 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -110,7 +110,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 18:45:55 UTC
+ Last Updated on 27/09/2026 18:47:00 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
