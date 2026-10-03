@@ -14,9 +14,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C322%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C327%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,44 +59,44 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-Markdown                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Go                       3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   9 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+Markdown                 4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Go                       3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+SQL                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 30 mins      █████████████████░░░░░░░░   68.02 % 
-OMP                      5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Agent                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Cursor                   13 hrs 29 mins      ██████████████░░░░░░░░░░░   54.88 % 
+OMP                      10 hrs 43 mins      ███████████░░░░░░░░░░░░░░   43.67 % 
+Agent                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Linux                    16 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 23 mins (96.87%)
+⏱ AI Coding Time: 24 hrs 2 mins (97.83%)
 
-✍️ 5,612 lines written by AI, 8 lines written by hand (99.86% AI-written)
+✍️ 8,744 lines written by AI, 9 lines written by hand (99.9% AI-written)
 
-🔤 67,032,482 Input Tokens, 386,051 Output Tokens
+🔤 150,506,942 Input Tokens, 890,031 Output Tokens
 
-💵 $158.69 Estimated AI Cost This Week
+💵 $274.23 Estimated AI Cost This Week
 
-🧠 823 AI Sessions, 321 AI Prompts
+🧠 1620 AI Sessions, 365 AI Prompts
 
-Composer                 2,419 lines         ███████████████░░░░░░░░░░   58.28 % 
-Grok                     1,033 lines         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Opus                     699 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Composer                 5,551 lines         ███████████████████░░░░░░   76.22 % 
+Grok                     1,033 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Opus                     699 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📄 Detailed Prompter — average 813 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 736 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+🚀 High AI Trust — 2.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -112,7 +112,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:32:28 UTC
+ Last Updated on 03/10/2026 21:43:54 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
