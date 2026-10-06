@@ -14,15 +14,15 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C335%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C338%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 842.0 kB Used in GitHub's Storage 
+> 📦 842.1 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2026
  > 
@@ -59,44 +59,45 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   11 hrs 44 mins      ███████████░░░░░░░░░░░░░░   43.92 % 
-Markdown                 5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Go                       2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-SQL                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Python                   12 hrs 47 mins      ███████████░░░░░░░░░░░░░░   45.88 % 
+Markdown                 5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+SQL                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-OMP                      13 hrs 32 mins      █████████████░░░░░░░░░░░░   50.69 % 
-Cursor                   12 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.60 % 
-Agent                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Cursor                   13 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.35 % 
+OMP                      13 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.09 % 
+Agent                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Linux                    26 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 19 mins (98.5%)
+⏱ AI Coding Time: 27 hrs 30 mins (98.64%)
 
-✍️ 10,062 lines written by AI, 9 lines written by hand (99.91% AI-written)
+✍️ 10,416 lines written by AI, 7 lines written by hand (99.93% AI-written)
 
-🔤 212,877,886 Input Tokens, 1,217,064 Output Tokens
+🔤 208,634,312 Input Tokens, 1,204,167 Output Tokens
 
-💵 $373.15 Estimated AI Cost This Week
+💵 $364.58 Estimated AI Cost This Week
 
-🧠 2215 AI Sessions, 358 AI Prompts
+🧠 2159 AI Sessions, 355 AI Prompts
 
-Composer                 8,362 lines         █████████████████████░░░░   82.84 % 
-Grok                     1,033 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Opus                     699 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Composer                 8,362 lines         ████████████████████░░░░░   78.49 % 
+Grok                     1,592 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Opus                     699 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 707 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 306 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 1.92% of changed lines were hand-edited
+🚀 High AI Trust — 2.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -112,7 +113,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:19:51 UTC
+ Last Updated on 06/10/2026 22:49:11 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
