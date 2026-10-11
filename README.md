@@ -59,44 +59,44 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Python                   4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Markdown                 3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Go                       5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
+Python                   3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Markdown                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 15 mins       █████████████░░░░░░░░░░░░   50.48 % 
-Agent                    4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-OMP                      3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Cursor                   7 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+Agent                    4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+OMP                      2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 
 💻 Operating System: 
-Linux                    16 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 8 mins (98.67%)
+⏱ AI Coding Time: 14 hrs 17 mins (98.5%)
 
-✍️ 5,726 lines written by AI, 3 lines written by hand (99.95% AI-written)
+✍️ 4,540 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 73,147,698 Input Tokens, 382,420 Output Tokens
+🔤 47,871,231 Input Tokens, 237,442 Output Tokens
 
-💵 $120.24 Estimated AI Cost This Week
+💵 $48.93 Estimated AI Cost This Week
 
-🧠 716 AI Sessions, 173 AI Prompts
+🧠 467 AI Sessions, 164 AI Prompts
 
-OMP                      3,217 lines         ██████████████░░░░░░░░░░░   55.90 % 
-Grok                     1,955 lines         ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Cursor                   583 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+OMP                      2,031 lines         ███████████░░░░░░░░░░░░░░   44.45 % 
+Grok                     1,955 lines         ███████████░░░░░░░░░░░░░░   42.79 % 
+Cursor                   583 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📝 Concise Prompter — average 275 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 287 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -112,7 +112,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 22:00:44 UTC
+ Last Updated on 11/10/2026 22:23:33 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
