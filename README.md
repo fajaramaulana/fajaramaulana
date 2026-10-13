@@ -14,9 +14,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C349%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C353%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-390%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-394%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,44 +59,44 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 47 mins       █████████████░░░░░░░░░░░░   50.61 % 
-Python                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Text                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Go                       8 hrs 44 mins       ███████████████░░░░░░░░░░   59.26 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 42 mins       ████████████████░░░░░░░░░   63.07 % 
-Agent                    5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-OMP                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Cursor                   9 hrs 12 mins       ████████████████░░░░░░░░░   62.40 % 
+Agent                    5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
+OMP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Linux                    15 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 46 mins (96.03%)
+⏱ AI Coding Time: 14 hrs 9 mins (95.94%)
 
-✍️ 2,953 lines written by AI, 4 lines written by hand (99.86% AI-written)
+✍️ 2,870 lines written by AI, 3 lines written by hand (99.9% AI-written)
 
-🔤 680,352 Input Tokens, 9,122 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $11.77 Estimated AI Cost This Week
+💵 $9.99 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 173 AI Prompts
+🧠 28 AI Sessions, 181 AI Prompts
 
-Grok                     2,529 lines         ████████████████████░░░░░   80.44 % 
-Cursor                   583 lines           █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-OMP                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Grok                     2,374 lines         ███████████████████░░░░░░   77.73 % 
+Cursor                   648 lines           █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+OMP                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📝 Concise Prompter — average 360 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.77% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📝 Concise Prompter — average 422 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -112,7 +112,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 01:01:26 UTC
+ Last Updated on 13/10/2026 23:05:06 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
