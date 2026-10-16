@@ -14,9 +14,9 @@
 
 📊 **Development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C360%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C364%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-401%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,45 +59,45 @@ Sunday                   1065 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       10 hrs 42 mins      ████████████████░░░░░░░░░   63.51 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Text                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-PHP                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Go                       10 hrs 51 mins      ███████████████░░░░░░░░░░   61.64 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Text                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+PHP                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 40 mins      █████████████████░░░░░░░░   69.31 % 
-Agent                    4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-OMP                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Cursor                   12 hrs 20 mins      ██████████████████░░░░░░░   70.01 % 
+Agent                    4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+OMP                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Linux                    16 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 13 mins (90.33%)
+⏱ AI Coding Time: 15 hrs 9 mins (86.04%)
 
-✍️ 2,773 lines written by AI, 115 lines written by hand (96.02% AI-written)
+✍️ 2,492 lines written by AI, 116 lines written by hand (95.55% AI-written)
 
 🔤 3,497,135 Input Tokens, 24,276 Output Tokens
 
 💵 $18.89 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 164 AI Prompts
+🧠 66 AI Sessions, 184 AI Prompts
 
-Grok                     2,431 lines         ████████████████████░░░░░   81.55 % 
-Cursor                   404 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Opus                     114 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-OMP                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Grok                     2,192 lines         ████████████████████░░░░░   79.94 % 
+Cursor                   404 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Opus                     114 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+OMP                      32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.02% of written lines came from AI
-📚 Verbose Prompter — average 1,564 characters per prompt
+🤖 AI-Driven — 95.55% of written lines came from AI
+📚 Verbose Prompter — average 2,249 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.94% of changed lines were hand-edited
+🚀 High AI Trust — 4.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -113,7 +113,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:43:47 UTC
+ Last Updated on 16/10/2026 21:39:09 UTC
 <!--END_SECTION:waka-->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajaramaulana&show_icons=true&locale=en&layout=compact" alt="fajaramaulana" /></p>
 
